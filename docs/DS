@@ -29,15 +29,3 @@ https://x4-cdnnew.newkso.ru/x4-cdn/mono47/mono.m3u8
 
 #EXTINF:-1, 欧冠决赛 Canal+
 https://x4-cdnnew.newkso.ru/x4-cdn/mono96/mono.m3u8
-
-#EXTINF:-1 tvg-id="Virgin.Media.One.ie",Virgin Media One
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.old_type=clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|3420eddeb31f44c98e16f189f1aad3ee:4a12d14c626b2498937b4dc3ee5bf355
-https://awslive02.stan.video/out/v1/7c89377705944d889a8e3ce0727b6821/index.mpd?aws.manifestfilter=video_codec%3Ah265&maxQuality=hd
-
-#EXTINF:-1 tvg-id="Virgin.Media.One.ie",Virgin Media One
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.old_type=clearkey
-#KODIPROP:inputstream.adaptive.drm_legacy=org.w3.clearkey|17a8e91a01404094a061fe32bb67d2bc:8f41469429421490c50e9fa7d0eb3975
-https://url.onlysignup.workers.dev/2XcpQb
