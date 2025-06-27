@@ -3,8 +3,8 @@
 #EXTINF:-1,凤凰
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 
-#EXTINF:-1, AJXW
-https://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1499.m3u8
+#EXTINF:-1, AJXW1
+https://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1499.m3u8?auth_key=1751119630-0-0-51b739fd99012f0cf4be32e62352b0f4&extra_key=sJhAwuw_RXLYGixR2ljzyNVnFRngjUJZrbJlKYH3C2cSjQTSgRps9poEdvu1rrX5h7u3obUKUYlJ4gygkJ5vL-JKFJFrcrgMytEQwPAowZG12542wgQy5baPoKulZ2rMghr9FvwvbePPFXfJZ2M0Rynl3wOqBgu5Dpr7XnD8J9k
 
 #EXTINF:-1, 日本vs澳大利亚
 
