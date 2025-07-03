@@ -1,32 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1,凤凰
+#EXTINF,凤凰
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 
-#EXTINF:-1, AJXW1
+#EXTINF, AJXW1
 https://32664.hlsplay.aodianyun.com/tv_radio_32664/tv_channel_1499.m3u8?auth_key=1751119630-0-0-51b739fd99012f0cf4be32e62352b0f4&extra_key=sJhAwuw_RXLYGixR2ljzyNVnFRngjUJZrbJlKYH3C2cSjQTSgRps9poEdvu1rrX5h7u3obUKUYlJ4gygkJ5vL-JKFJFrcrgMytEQwPAowZG12542wgQy5baPoKulZ2rMghr9FvwvbePPFXfJZ2M0Rynl3wOqBgu5Dpr7XnD8J9k
 
-#EXTINF:-1, 凤凰资讯台
+#EXTINF, 凤凰资讯台
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 
-#EXTINF:-1, 欧冠决赛 CBS
+#EXTINF, 欧冠决赛 CBS
 https://x4-cdnnew.newkso.ru/x4-cdn/mono97/mono.m3u8
-#EXTINF:-1, 欧冠决赛 CBS
+#EXTINF, 欧冠决赛 CBS
 https://0108.goodfarmsinc.pw/cbs.m3u8
 
-#EXTINF:-1, 欧冠决赛 DAZN DE
+#EXTINF, 欧冠决赛 DAZN DE
 https://x4-cdnnew.newkso.ru/x4-cdn/mono93/mono.m3u8
 
-#EXTINF:-1, 欧冠决赛 sport tv 5
+#EXTINF, 欧冠决赛 sport tv 5
 https://m2.merichunidya.com:999/hls/do21.m3u8?md5=AzUfpGUg4lzITwVCwEbRbQ&expires=1748719971
 
-#EXTINF:-1, 欧冠决赛 sport tv 5
+#EXTINF, 欧冠决赛 sport tv 5
 https://x4-cdnnew.newkso.ru/x4-cdn/mono21/mono.m3u8
 
-#EXTINF:-1, 欧冠决赛 sky it
+#EXTINF, 欧冠决赛 sky it
 https://m7.merichunidya.com:999/hls/do47.m3u8?md5=iw8-Rh9vU0dlLnva6ClmLg&expires=1748720124
-#EXTINF:-1, 欧冠决赛 sky it
+#EXTINF, 欧冠决赛 sky it
 https://x4-cdnnew.newkso.ru/x4-cdn/mono47/mono.m3u8
 
-#EXTINF:-1, 欧冠决赛 Canal+
+#EXTINF, 欧冠决赛 Canal+
 https://x4-cdnnew.newkso.ru/x4-cdn/mono96/mono.m3u8
